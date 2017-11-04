@@ -1,6 +1,6 @@
 Secure Communication System using Elleptic Curve Diffie Hellman Algorithm
 
-Comile:  
+Compile:  
 javac -cp ".:bcprov-jdk15on-158.jar" *.java
 
 Run:  
